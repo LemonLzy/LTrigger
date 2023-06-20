@@ -1,0 +1,9 @@
+[db]
+host = "127.0.0.1"
+port = 3306
+user = "LTrigger"
+password = "LTrigger"
+db_name = "LTrigger"
+max_open_conns = 10
+max_idle_conns = 200
+migrate_table = true
